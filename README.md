@@ -10,16 +10,14 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome:
 - Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: Proposta 1 – Pessoas e Produções (Pessoa: Artista; Produções: Álbuns musicais)
+- Breve descrição sobre seu projeto: O SoundHub é uma aplicação web que organiza e apresenta artistas musicais e seus respectivos álbuns em uma interface clara e intuitiva. A plataforma permite explorar informações sobre os artistas e suas produções de forma centralizada, facilitando a navegação e a descoberta de novos conteúdos musicais.
 
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
+![Wireframe 1](public/images/wireframe1.png)
+![Wireframe 2](public/images/wireframe2.png)
+![Wireframe 3](public/images/wireframe3.png)
 
 ## Print da home-page criada
 
