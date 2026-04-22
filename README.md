@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Sglf0bWs)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23499466&assignment_repo_type=AssignmentRepo)
 # Trabalho Prático - Semana 04
 
 Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
@@ -10,19 +8,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Frederico Marcos de Paula Marques
+- Matricula: 907680
+- Proposta de projeto escolhida: Proposta 1 – Pessoas e Produções (Pessoa: Artista; Produções: Álbuns musicais)
+- Breve descrição sobre seu projeto: O SoundHub é uma aplicação web que organiza e apresenta artistas musicais e seus respectivos álbuns em uma interface clara e intuitiva. A plataforma permite explorar informações sobre os artistas e suas produções de forma centralizada, facilitando a navegação e a descoberta de novos conteúdos musicais.
 
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
+![Wireframe 1](public/images/wireframe1.png)
+![Wireframe 2](public/images/wireframe2.png)
+![Wireframe 3](public/images/wireframe3.png)
 
 ## Print da home-page criada
-
-<<  COLOQUE A IMAGEM AQUI >>
+![Homepage 1](public/images/homepage1.png)
+![Homepage 2](public/images/homepage2.png)
+![Homepage 3](public/images/homepage3.png)
+![Homepage 4](public/images/homepage4.png)
